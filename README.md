@@ -37,7 +37,3 @@ Start the server
 ```bash
   npm run dev
 ```
-
-
-## Author
-- [@Priyanku Gogoi](https://github.com/ppriyankuu)
